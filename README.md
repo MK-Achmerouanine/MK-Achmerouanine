@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: White color is the mixture of all colors 
 -->
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/github/MK-Achmerouanine/dentero.svg)](https://wakatime.com/badge/github/MK-Achmerouanine/dentero)
