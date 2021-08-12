@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          1 hr 3 mins     ████████████▒░░░░░░░░░░░░   48.78 % 
+SCSS         26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+JSON         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+JavaScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/github/MK-Achmerouanine/dentero.svg)](https://wakatime.com/badge/github/MK-Achmerouanine/dentero)
