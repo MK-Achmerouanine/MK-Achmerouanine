@@ -23,4 +23,4 @@ JavaScript   25 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 JSON         20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 % 
 ```
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/github/MK-Achmerouanine/dentero.svg)](https://wakatime.com/badge/github/MK-Achmerouanine/dentero)
+<figure><embed src="https://wakatime.com/share/@Kabayla/7b1318d3-9beb-4690-9c6d-a45f43089644.svg"></embed></figure>
