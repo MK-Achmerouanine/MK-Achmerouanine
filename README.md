@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-JSX          1 hr 3 mins     ████████████▒░░░░░░░░░░░░   48.78 % 
-SCSS         26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-JSON         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-JavaScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JSX          3 hrs 42 mins   █████████████░░░░░░░░░░░░   52.13 % 
+Python       1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
+SCSS         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JavaScript   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/github/MK-Achmerouanine/dentero.svg)](https://wakatime.com/badge/github/MK-Achmerouanine/dentero)
