@@ -23,3 +23,11 @@ JavaScript   25 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 JSON         20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 % 
 ```
 <!--END_SECTION:waka-->
+	
+@startuml
+actor foo
+foo --> (bar) : normal
+foo --> (bar1) #line:red;line.bold;text:red  : red bold
+foo --> (bar2) #green;line.dashed;text:green : green dashed 
+foo --> (bar3) #blue;line.dotted;text:blue   : blue dotted
+@enduml
