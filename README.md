@@ -22,5 +22,6 @@ SCSS         37 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 JavaScript   25 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.49 % 
 JSON         20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 % 
 ```
-<!--END_SECTION:waka-->
+
 <figure><embed src="https://wakatime.com/share/@Kabayla/7b1318d3-9beb-4690-9c6d-a45f43089644.svg"></embed></figure>
+<!--END_SECTION:waka-->
