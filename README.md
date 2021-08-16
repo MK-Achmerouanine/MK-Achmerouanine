@@ -14,5 +14,14 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-Achmerouanine&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Achmerouanine)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="width=100%">
+  <div style="50%">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-Achmerouanine&theme=gotham&show_icons=true)
+  </div>
+  <div style="50%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Achmerouanine)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
+
+
