@@ -17,8 +17,8 @@ Java         4 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 JavaScript   6 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
 ```
 <!--END_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kabayla)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-Achmerouanine&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Achmerouanine)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kabayla)](https://github.com/MK-Achmerouanine)
+![Stats](https://github-readme-stats.vercel.app/api?username=MK-Achmerouanine&theme=gotham&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Achmerouanine)](https://github.com/anuraghazra/MK-Achmerouanine)
 
 
