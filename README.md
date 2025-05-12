@@ -10,7 +10,7 @@
 - 😄 Pronouns: Kabayla
 - ⚡ Fun fact: Silence is broken when it's toled
 
-[![wakatime](https://wakatime.com/badge/user/bc6df760-aa56-4ed5-9a95-86b156b2f4cb.svg)](https://wakatime.com/@bc6df760-aa56-4ed5-9a95-86b156b2f4cb)
+![wakatime](https://wakatime.com/badge/user/bc6df760-aa56-4ed5-9a95-86b156b2f4cb.svg)
 
 <figure><embed src="https://wakatime.com/share/@Kabayla/12c1e460-7370-4717-abf3-c9a435e87866.svg"></embed></figure>
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
