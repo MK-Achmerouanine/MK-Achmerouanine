@@ -13,7 +13,7 @@
 ![wakatime](https://wakatime.com/badge/user/bc6df760-aa56-4ed5-9a95-86b156b2f4cb.svg)
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kabayla&layout=compact)](https://github.com/MK-Achmerouanine)
 ![Stats](https://github-readme-stats.vercel.app/api?username=MK-Achmerouanine&theme=gotham&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Achmerouanine&layout=pie)](https://github.com/MK-Achmerouanine)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kabayla&layout=compact)](https://github.com/MK-Achmerouanine)
 
